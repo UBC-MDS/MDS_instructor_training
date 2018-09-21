@@ -7,9 +7,6 @@ If you set someone on fire, you'll keep them warm for the rest of their life.
 - Sir Terry Pratchett
 </blockquote>
 
-<p> 
-  
----
 
 ## Schedule
 
