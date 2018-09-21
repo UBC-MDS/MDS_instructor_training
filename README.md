@@ -7,6 +7,8 @@ If you set someone on fire, you'll keep them warm for the rest of their life.
 - Sir Terry Pratchett
 </blockquote>
 
+<p> 
+  
 ## Schedule
 
 The precise topics covered in each half-day segment may vary depending on participants' interests and prior experience, but we expect the overall arc to be as follows:
