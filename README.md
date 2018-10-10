@@ -19,6 +19,11 @@ The precise topics covered in each half-day segment may vary depending on partic
 | Fri | 9 AM - 12 noon |[WOOD (Woodward IRC)](http://maps.ubc.ca/PROD/index_detail.php?show=y,n,n,n,n,y&bldg2Search=&locat1=473), Rm. 1  | [Motivation and demotivation](http://teachtogether.tech/en/motivation/) and [building a teaching community](http://teachtogether.tech/en/community/) |
 | Fri | 1 - 4:30 PM | [ESB (Earth Sciences)](http://maps.ubc.ca/PROD/index_detail.php?show=y,n,n,n,n,y&bldg2Search=&locat1=225), Rm. 4192  | [Exercise types](http://teachtogether.tech/en/exercises/), a [lesson design process](http://teachtogether.tech/en/process/), and next steps |
 
+### Rooms for breakout sessions on Oct 11
+- ESB 3167:  2pm - 4pm (cap: 4 ppl)
+- ESB 3173:  2pm - 4pm (cap: 4 ppl)
+- ESB 3125:  2pm - 4pm (cap: 6 ppl)
+- ESB 4182:  2pm - 4pm (cap: 12 ppl) 
 
 ## Instructor
 
