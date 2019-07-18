@@ -1,4 +1,4 @@
-# August 14-15, 2019
+# August 13-14, 2019
 
 <blockquote>
 If you build someone a fire, you'll keep them warm for a night.
@@ -19,20 +19,20 @@ Please RSVP by emailing [Tiffany Timbers](mailto:tiffany.timbers@stat.ubc.ca) an
 
 ## Schedule
 
-Day 1 (Wednesday) is intended for Instructors new to teaching Data Science or new to teaching at all. Day 2 (Thursday) is intended as a more hands-on teaching refinement session useful for new to seasoned Data Science Instructors. The precise topics covered in each half-day segment may vary depending on participants' interests and prior experience, but we expect the overall arc to be as follows:
+Day 1 (Tuesday) is intended for Instructors new to teaching Data Science or new to teaching at all. Day 2 (Wednesday) is intended as a more hands-on teaching refinement session useful for new to seasoned Data Science Instructors. The precise topics covered in each half-day segment may vary depending on participants' interests and prior experience, but we expect the overall arc to be as follows:
 
 | Day | Time | Topic | Instructor |
 |-----|------|-------|------------|
-| Wed | 12:30 PM - 1:45 PM | [Intro, learner personas](https://drive.google.com/file/d/1CEPLEFFqI2FG5-LfIyyHjpx0HaIG5Aip/view?usp=sharing) & [mental models](https://drive.google.com/file/d/1ns5vf8MkKKEgO1SZuIOgFgjRwmU2Cz8Z/view?usp=sharing) | |
+| Tues | 12:30 PM - 1:45 PM | [Intro, learner personas](https://drive.google.com/file/d/1CEPLEFFqI2FG5-LfIyyHjpx0HaIG5Aip/view?usp=sharing) & [mental models](https://drive.google.com/file/d/1ns5vf8MkKKEgO1SZuIOgFgjRwmU2Cz8Z/view?usp=sharing) | |
+| Tues | 1:45 PM - 2:00 PM | Coffee break | |
+| Tues | 2:00 PM - 3:15 PM | [Cognitive load](https://drive.google.com/file/d/12hVEVmtQDnfzrRt3kR9OsI6XvIHGxu_3/view?usp=sharing) & [capacity](https://drive.google.com/file/d/1dD5E0EXJoK7rJhm_3mZyTe2QwJJ1uPKs/view?usp=sharing) | |
+| Tues | 3:15 PM - 3:30 PM | Coffee break | |
+| Tues | 3:30 PM - 4:30 PM | [Feedback](https://drive.google.com/file/d/1Xvm05Eg1_SLIi6v2-L70S6CcBGyTot6C/view?usp=sharing), [assessment](https://drive.google.com/file/d/1vYzRnlfLwaGCLZAxPwuXYdXH2J3OSnJd/view?usp=sharing) & wrap-up | |
+| Wed | 12:30 PM - 1:45 PM | Exercises for Data Science | |
 | Wed | 1:45 PM - 2:00 PM | Coffee break | |
-| Wed | 2:00 PM - 3:15 PM | [Cognitive load](https://drive.google.com/file/d/12hVEVmtQDnfzrRt3kR9OsI6XvIHGxu_3/view?usp=sharing) & [capacity](https://drive.google.com/file/d/1dD5E0EXJoK7rJhm_3mZyTe2QwJJ1uPKs/view?usp=sharing) | |
+| Wed | 2:00 PM - 3:15 PM | Live coding & giving feedback on teaching | |
 | Wed | 3:15 PM - 3:30 PM | Coffee break | |
-| Wed | 3:30 PM - 4:30 PM | [Feedback](https://drive.google.com/file/d/1Xvm05Eg1_SLIi6v2-L70S6CcBGyTot6C/view?usp=sharing), [assessment](https://drive.google.com/file/d/1vYzRnlfLwaGCLZAxPwuXYdXH2J3OSnJd/view?usp=sharing) & wrap-up | |
-| Thurs | 12:30 PM - 1:45 PM | Exercises for Data Science | |
-| Thurs | 1:45 PM - 2:00 PM | Coffee break | |
-| Thurs | 2:00 PM - 3:15 PM | Live coding & giving feedback on teaching | |
-| Thurs | 3:15 PM - 3:30 PM | Coffee break | |
-| Thurs | 3:30 PM - 4:30 PM | Identifying demotivation and solutions for the future | |
+| Wed | 3:30 PM - 4:30 PM | Identifying demotivation and solutions for the future | |
 
 ### Rooms for breakout sessions
 - TBD
