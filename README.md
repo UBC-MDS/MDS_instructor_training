@@ -39,7 +39,9 @@ Day 1 (Wednesday) is intended for Instructors new to teaching Data Science or ne
 
 ## Instructors
 
-[Tiffany Timbers](https://www.tiffanytimbers.com) is is an Instructor in the Department of Statistics and an Option Co-Director for the Master of Data Science program at the University British Columbia. She is also a [Software Carpentry](https://software-carpentry.org) and [Data Carpentry](https://datacarpentry.org) Instructor. In these roles she teaches and develops curriculum around the responsible application of Data Science to solve real-world problems.
+[Tiffany Timbers](https://www.tiffanytimbers.com) is an Instructor in the Department of Statistics and an Option Co-Director for the Master of Data Science program at the University British Columbia. She is also a [Software Carpentry](https://software-carpentry.org) and [Data Carpentry](https://datacarpentry.org) Instructor. In these roles she teaches and develops curriculum around the responsible application of Data Science to solve real-world problems.
+
+[Michael Gelbart](https://www.mikegelbart.com/) is an Instructor in the Department of Computer Science and Option Co-Director of the Master of Data Science Program (Vancouver). He was born and raised in beautiful Vancouver, British Columbia, Canada. As an undergraduate student at Princeton University, he studied physics and worked on research projects in biophysics. In graduate school I switched fields to computer science and received my PhD from the machine learning group at Harvard University.
 
 ## Attribution
 
