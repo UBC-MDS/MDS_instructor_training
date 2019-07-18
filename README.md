@@ -44,3 +44,7 @@ Day 1 (Wednesday) is intended for Instructors new to teaching Data Science or ne
 ## Attribution
 
 Materials and inspiration for this workshop are attributed to Greg Wilson. In particular his book [Teaching Tech Together](http://teachtogether.tech) and the [slides](https://drive.google.com/drive/folders/13ohFt3D0EJ5PDbMaWTxnHH-hwA7G0IvY) he developed for the [RStudio Instructor Training course](https://blog.rstudio.com/2019/05/21/rstudio-instructor-training-updates/).
+
+## License
+
+[Creative Commons - Attribution-ShareAlike 2.5 Canada (CC BY-SA 2.5 CA)](https://creativecommons.org/licenses/by-sa/2.5/ca/)
