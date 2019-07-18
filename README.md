@@ -31,7 +31,7 @@ Day 1 (Wednesday) is intended for Instructors new to teaching Data Science or ne
 | Thurs | 3:15 PM - 3:30 PM | Coffee break | |
 | Thurs | 3:30 PM - 4:30 PM | Identifying demotivation and solutions for the future | |
 
-### Rooms for breakout sessions on Oct 11
+### Rooms for breakout sessions
 - TBD
 
 ### Readings: 
