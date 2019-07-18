@@ -11,6 +11,9 @@ If you set someone on fire, you'll keep them warm for the rest of their life.
 
 ![](https://media.giphy.com/media/7rfimOfLKrwDC/giphy.gif)
 
+## Registration
+Please RSVP by emailing [Tiffany Timbers](mailto:tiffany.timbers@stat.ubc.ca) and indicating which day you intend on attending. Space is limited to 20 participants.
+
 ## Location
 [ESB (Earth Sciences)](http://maps.ubc.ca/PROD/index_detail.php?show=y,n,n,n,n,y&bldg2Search=&locat1=225), Rm. 4192
 
