@@ -20,11 +20,11 @@ Day 1 (Wednesday) is intended for Instructors new to teaching Data Science or ne
 
 | Day | Time | Topic | Instructor |
 |-----|------|-------|------------|
-| Wed | 12:30 PM - 1:45 PM | TBD | |
+| Wed | 12:30 PM - 1:45 PM | Learner personas & mental models | |
 | Wed | 1:45 PM - 2:00 PM | Coffee break | |
-| Wed | 2:00 PM - 3:15 PM | TBD | |
+| Wed | 2:00 PM - 3:15 PM | Cognitive load & capacity | |
 | Wed | 3:15 PM - 3:30 PM | Coffee break | |
-| Wed | 3:30 PM - 4:30 PM | TBD | |
+| Wed | 3:30 PM - 4:30 PM | Feedback & assessment | |
 | Thurs | 12:30 PM - 1:45 PM | Exercises for Data Science | |
 | Thurs | 1:45 PM - 2:00 PM | Coffee break | |
 | Thurs | 2:00 PM - 3:15 PM | Live coding & giving feedback on teaching | |
