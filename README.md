@@ -1,4 +1,4 @@
-# UBC Master of Data Science<br/>Instructor Training (Aug 14-15, 2019)
+# August 14-15, 2019
 
 <blockquote>
 If you build someone a fire, you'll keep them warm for a night.
@@ -7,6 +7,7 @@ If you set someone on fire, you'll keep them warm for the rest of their life.
 - Sir Terry Pratchett
 </blockquote>
 
+![](https://media.giphy.com/media/7rfimOfLKrwDC/giphy.gif)
 
 ## Schedule
 
