@@ -40,3 +40,7 @@ Day 1 (Wednesday) is intended for Instructors new to teaching Data Science or ne
 ## Instructors
 
 [Tiffany Timbers](https://www.tiffanytimbers.com) is is an Instructor in the Department of Statistics and an Option Co-Director for the Master of Data Science program at the University British Columbia. She is also a [Software Carpentry](https://software-carpentry.org) and [Data Carpentry](https://datacarpentry.org) Instructor. In these roles she teaches and develops curriculum around the responsible application of Data Science to solve real-world problems.
+
+## Attribution
+
+Materials and inspiration for this workshop are attributed to Greg Wilson. In particular his book [Teaching Tech Together](http://teachtogether.tech) and the [slides](https://drive.google.com/drive/folders/13ohFt3D0EJ5PDbMaWTxnHH-hwA7G0IvY) he developed for the [RStudio Instructor Training course](https://blog.rstudio.com/2019/05/21/rstudio-instructor-training-updates/).
