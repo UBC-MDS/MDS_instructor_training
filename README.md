@@ -7,13 +7,16 @@ If you set someone on fire, you'll keep them warm for the rest of their life.
 - Sir Terry Pratchett
 </blockquote>
 
+---
+
 ![](https://media.giphy.com/media/7rfimOfLKrwDC/giphy.gif)
+
+## Location
+[ESB (Earth Sciences)](http://maps.ubc.ca/PROD/index_detail.php?show=y,n,n,n,n,y&bldg2Search=&locat1=225), Rm. 4192
 
 ## Schedule
 
 Day 1 (Wednesday) is intended for Instructors new to teaching Data Science or new to teaching at all. Day 2 (Thursday) is intended as a more hands-on teaching refinement session useful for new to seasoned Data Science Instructors. The precise topics covered in each half-day segment may vary depending on participants' interests and prior experience, but we expect the overall arc to be as follows:
-
-Location: [ESB (Earth Sciences)](http://maps.ubc.ca/PROD/index_detail.php?show=y,n,n,n,n,y&bldg2Search=&locat1=225), Rm. 4192
 
 | Day | Time | Topic | 
 |-----|------|-------|
