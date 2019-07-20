@@ -23,16 +23,16 @@ Day 1 (Tuesday) is intended for Instructors new to teaching Data Science or new 
 
 | Day | Time | Topic | Instructor |
 |-----|------|-------|------------|
-| Tues | 12:30 PM - 1:45 PM | [Intro, learner personas](https://drive.google.com/file/d/1CEPLEFFqI2FG5-LfIyyHjpx0HaIG5Aip/view?usp=sharing) & [mental models](https://drive.google.com/file/d/1ns5vf8MkKKEgO1SZuIOgFgjRwmU2Cz8Z/view?usp=sharing) | |
+| Tues | 12:30 PM - 1:45 PM | [Intro, learner personas](https://drive.google.com/file/d/1CEPLEFFqI2FG5-LfIyyHjpx0HaIG5Aip/view?usp=sharing) & [mental models](https://drive.google.com/file/d/1ns5vf8MkKKEgO1SZuIOgFgjRwmU2Cz8Z/view?usp=sharing) | Tiffany Timbers |
 | Tues | 1:45 PM - 2:00 PM | Coffee break | |
-| Tues | 2:00 PM - 3:15 PM | [Cognitive load](https://drive.google.com/file/d/12hVEVmtQDnfzrRt3kR9OsI6XvIHGxu_3/view?usp=sharing) & [capacity](https://drive.google.com/file/d/1dD5E0EXJoK7rJhm_3mZyTe2QwJJ1uPKs/view?usp=sharing) | |
+| Tues | 2:00 PM - 3:15 PM | [Cognitive load](https://drive.google.com/file/d/12hVEVmtQDnfzrRt3kR9OsI6XvIHGxu_3/view?usp=sharing) & [capacity](https://drive.google.com/file/d/1dD5E0EXJoK7rJhm_3mZyTe2QwJJ1uPKs/view?usp=sharing) | Tiffany Timbers |
 | Tues | 3:15 PM - 3:30 PM | Coffee break | |
-| Tues | 3:30 PM - 4:30 PM | [Feedback](https://drive.google.com/file/d/1Xvm05Eg1_SLIi6v2-L70S6CcBGyTot6C/view?usp=sharing), [assessment](https://drive.google.com/file/d/1vYzRnlfLwaGCLZAxPwuXYdXH2J3OSnJd/view?usp=sharing) & wrap-up | |
-| Wed | 12:30 PM - 1:45 PM | Exercises for Data Science | |
+| Tues | 3:30 PM - 4:30 PM | [Feedback](https://drive.google.com/file/d/1Xvm05Eg1_SLIi6v2-L70S6CcBGyTot6C/view?usp=sharing), [assessment](https://drive.google.com/file/d/1vYzRnlfLwaGCLZAxPwuXYdXH2J3OSnJd/view?usp=sharing) & wrap-up | Mike Gelbart |
+| Wed | 12:30 PM - 1:45 PM | Exercises for Data Science | Tiffany Timbers |
 | Wed | 1:45 PM - 2:00 PM | Coffee break | |
-| Wed | 2:00 PM - 3:15 PM | Live coding & giving feedback on teaching | |
+| Wed | 2:00 PM - 3:15 PM | Live coding & giving feedback on teaching | Mike Gelbart |
 | Wed | 3:15 PM - 3:30 PM | Coffee break | |
-| Wed | 3:30 PM - 4:30 PM | Identifying demotivation and solutions for the future | |
+| Wed | 3:30 PM - 4:30 PM | Identifying demotivation and solutions for the future | Mike Gelbart |
 
 ### Rooms for breakout sessions
 - TBD
