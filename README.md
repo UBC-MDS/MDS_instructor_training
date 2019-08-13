@@ -18,7 +18,7 @@ Please RSVP by emailing [Tiffany Timbers](mailto:tiffany.timbers@stat.ubc.ca) an
 [ESB (Earth Sciences)](http://maps.ubc.ca/PROD/index_detail.php?show=y,n,n,n,n,y&bldg2Search=&locat1=225), Rm. 4192
 
 ## Google doc for collaboration
-- https://docs.google.com/document/d/15OcMimdFJl6PARI39uq5fVpOqGwpGpue5xdKfVjfTZE/edit?usp=sharing
+- [https://docs.google.com/document/d/15OcMimdFJl6PARI39uq5fVpOqGwpGpue5xdKfVjfTZE/edit?usp=sharing](https://docs.google.com/document/d/15OcMimdFJl6PARI39uq5fVpOqGwpGpue5xdKfVjfTZE/edit?usp=sharing)
 
 ## Schedule
 
