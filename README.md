@@ -17,6 +17,9 @@ Please RSVP by emailing [Tiffany Timbers](mailto:tiffany.timbers@stat.ubc.ca) an
 ## Location
 [ESB (Earth Sciences)](http://maps.ubc.ca/PROD/index_detail.php?show=y,n,n,n,n,y&bldg2Search=&locat1=225), Rm. 4192
 
+## Google doc for collaboration
+- https://docs.google.com/document/d/15OcMimdFJl6PARI39uq5fVpOqGwpGpue5xdKfVjfTZE/edit?usp=sharing
+
 ## Schedule
 
 Day 1 (Tuesday) is intended for Instructors new to teaching Data Science or new to teaching at all. Day 2 (Wednesday) is intended as a more hands-on teaching refinement session useful for new to seasoned Data Science Instructors. The precise topics covered in each half-day segment may vary depending on participants' interests and prior experience, but we expect the overall arc to be as follows:
