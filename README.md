@@ -30,12 +30,12 @@ Day 1 (Tuesday) is intended for Instructors new to teaching Data Science or new 
 | Tues | 1:45 PM - 2:00 PM | Coffee break | |
 | Tues | 2:00 PM - 3:15 PM | [Cognitive load](https://drive.google.com/file/d/12hVEVmtQDnfzrRt3kR9OsI6XvIHGxu_3/view?usp=sharing) & [capacity](https://drive.google.com/file/d/1dD5E0EXJoK7rJhm_3mZyTe2QwJJ1uPKs/view?usp=sharing) | Tiffany Timbers |
 | Tues | 3:15 PM - 3:30 PM | Coffee break | |
-| Tues | 3:30 PM - 4:30 PM | [Feedback](https://drive.google.com/file/d/1Xvm05Eg1_SLIi6v2-L70S6CcBGyTot6C/view?usp=sharing), [assessment](https://drive.google.com/file/d/1vYzRnlfLwaGCLZAxPwuXYdXH2J3OSnJd/view?usp=sharing) & wrap-up | Mike Gelbart |
+| Tues | 3:30 PM - 4:30 PM | Feedback, assessment, live coding | Mike Gelbart |
 | Wed | 12:30 PM - 1:45 PM | Exercises for Data Science | Tiffany Timbers |
 | Wed | 1:45 PM - 2:00 PM | Coffee break | |
-| Wed | 2:00 PM - 3:15 PM | Live coding & giving feedback on teaching | Mike Gelbart |
+| Wed | 2:00 PM - 3:15 PM | Lesson design, curriculum design, think-pair-share | Mike Gelbart |
 | Wed | 3:15 PM - 3:30 PM | Coffee break | |
-| Wed | 3:30 PM - 4:30 PM | Identifying demotivation and solutions for the future | Mike Gelbart |
+| Wed | 3:30 PM - 4:30 PM | Student engagement and big-picture thoughts about teaching | Mike Gelbart |
 
 ### Rooms for breakout sessions
 - TBD
