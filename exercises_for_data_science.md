@@ -3,6 +3,7 @@
 Derived from [Teaching Tech Together](https://teachtogether.tech/#s:exercises) by Greg Wilson
 
 ### Work particularly well for coding
+[Examples of these exercise types in a Jupyter notebook](https://github.com/UBC-MDS/MDS_instructor_training/blob/master/exercises_for_data_science_examples.ipynb)
 
 1. **Code & Run** - learner asked to write code that produces a specified output
 
