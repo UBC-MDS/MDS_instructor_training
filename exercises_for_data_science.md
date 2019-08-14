@@ -1,4 +1,17 @@
-## Exercises for Data Science
+# Exercises for Data Science
+
+## General opinions 
+- Get students doing something cool/motivational quickly - even if you need to give them training wheels
+- Use toy/reduced examples to introduce complex concepts and ideas (but only to introduce)
+- Use real data! It should have: 
+    - stories/questions, 
+    - column/variable names,
+    - be big enough to motivate using the tools you are teaching,
+
+and sometimes it should be at least a bit messy.
+- Frequently ask students to interpret and communicate their results (open ended questions with critical manual grading!)
+
+## Examples
 
 Derived from [Teaching Tech Together](https://teachtogether.tech/#s:exercises) by Greg Wilson
 
